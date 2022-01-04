@@ -1,4 +1,4 @@
-package eight;
+package seven;
 
 public class SquareDigit {
 
