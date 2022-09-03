@@ -5,7 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-public class KataHowGoodAreYouReallyExampleTests {
+public class MaxDiffEasyHowGoodAreYouReallyExampleTests {
     @Test
     public void tests() {
         assertTrue(KataHowGoodAreYouReally.betterThanAverage(new int[]{ 2, 3 }, 5));
